@@ -22,9 +22,9 @@ This is a Python-based **command-line application** that simulates a vegetable s
 ## 🖥️ How to Run
 
 1. **Install Python 3** (if not already installed)
-2. Save the Python script as `vegetable_store.py`
+2. Save the Python script as `vegetable-store-cli.py`
 3. Open terminal or command prompt
 4. Run the app:
 
 ```bash
-python vegetable_store.py
+python vegetable-store-cli.py
